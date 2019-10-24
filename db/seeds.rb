@@ -15,7 +15,7 @@ City.destroy_all
 Specialty.destroy_all
 SpecialtyId.destroy_all
 
-#je crée mes tableau pour pouvoir utiliser la gem faker
+#je crée mes tableaux pour pouvoir générer des données aléatoirement avec sample
 specialite = ["Podologue", "Opticien", "Dentist", "Généraliste"]
 c = []
 d = []
